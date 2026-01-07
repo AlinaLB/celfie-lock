@@ -1,0 +1,20 @@
+# Celfie Lock - Core Dependencies
+# Install with: pip install -r requirements.txt
+
+# Image processing
+Pillow>=9.0.0
+
+# Encryption and security
+cryptography>=3.4.0
+
+# Numerical operations
+numpy>=1.20.0
+
+# Optional: For enhanced features
+# scipy>=1.7.0  # Advanced image processing
+# qrcode>=7.0   # QR code generation
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
