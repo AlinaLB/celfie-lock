@@ -1,7 +1,7 @@
 # Celfie Lock - Open Source Image Protection
 
 <p align="center">
-  <img src="static/img/logo.png" alt="Celfie Lock Logo" width="200">
+  <img src="logo.png" alt="Celfie Lock Logo" width="200">
 </p>
 
 <p align="center">
